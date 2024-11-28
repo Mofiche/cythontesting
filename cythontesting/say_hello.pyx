@@ -1,2 +1,2 @@
-cdef void greet():
+cpdef void greet():
     print("Hello!")

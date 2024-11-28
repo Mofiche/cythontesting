@@ -7,4 +7,4 @@ py-modules = ["cythontesting"]
 
 [project]
 name        = "cythontesting"
-version     = "0.0.1"
+version     = "0.0.2"
